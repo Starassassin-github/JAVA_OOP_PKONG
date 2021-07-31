@@ -1,0 +1,1 @@
+Programmer p1 = new Programmer("Athit Sangsai", 50000.0);
